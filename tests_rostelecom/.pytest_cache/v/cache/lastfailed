@@ -1,0 +1,5 @@
+{
+  "test_auth_page.py::test_active_tabs_switch[ls]": true,
+  "test_registration_page.py": true,
+  "test_registration_page.py::test_new_user_registration": true
+}

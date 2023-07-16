@@ -1,0 +1,8 @@
+[
+  "test_auth_page.py::test_active_tabs_switch[email]",
+  "test_auth_page.py::test_active_tabs_switch[login]",
+  "test_auth_page.py::test_active_tabs_switch[ls]",
+  "test_auth_page.py::test_active_tabs_switch[phone]",
+  "test_registration_page.py::test_new_user_registration",
+  "test_registration_page.py::test_open_registration_page"
+]
